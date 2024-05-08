@@ -1,0 +1,20 @@
+.missing-text{
+    width: 100%;
+    height: 140px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+ background: #230211; 
+}
+.missing-text>p{
+    margin: 0;
+    font-size: 18px;
+    font-family: Arial;
+    color: #ffffff;
+}
+.white{
+    height: 277px;
+    background-color: white;
+}

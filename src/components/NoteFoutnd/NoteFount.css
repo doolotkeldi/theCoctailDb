@@ -1,0 +1,9 @@
+.not{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 600px;
+    font-size: 60px;
+    color: black;
+    font-weight: 700;
+}

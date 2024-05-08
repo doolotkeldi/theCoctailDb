@@ -1,0 +1,25 @@
+.search-text{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+   align-items: center;
+ 
+}
+.search-text>h1{
+    font-size: 18px;
+    color: #ffffff;
+    letter-spacing: 1px;
+}
+.text-item>a{
+    font-size: 22px;
+    color: rgb(193, 188, 188);
+    display: flex;
+    gap: 7px;
+}
+.text-item{
+    display: flex;
+    gap: 7px;
+}
+.text-item>a:hover{
+    color: #ffffff;
+}

@@ -1,0 +1,8 @@
+.bigAlhogol{
+    width: 100%;
+    height: 740px;
+    background-color: rgb(27, 26, 26);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

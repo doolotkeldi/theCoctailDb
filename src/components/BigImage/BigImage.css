@@ -1,0 +1,9 @@
+.big-image{
+    width: 100%;
+    height: 737px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(34, 31, 31);
+ 
+}

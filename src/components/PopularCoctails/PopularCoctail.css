@@ -1,0 +1,38 @@
+.coctail-container{
+    margin-top: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.coctail-blocks{
+    margin-top: 10px;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-gap: 40px;
+}
+.coctail-container>h1{
+    margin: 0;
+    font-size: 18px;
+    color: #ffffff;
+    letter-spacing: 1px;
+}
+.coctail-block{
+    width: 275px; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5px;
+    color: #a78d9b;
+}
+.coctail-block:hover{
+    color: #ffbd20;
+}
+.coctail-block-image{
+    width: 275px;
+    height: 270px;
+}
+.coctail-block-image>img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
